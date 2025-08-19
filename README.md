@@ -45,8 +45,4 @@ Copy code
 
 ---
 
-## 4) Setup
-
-### 4.1 MySQL (safe schema)
-Run **`00_schema_safe.sql`** (uses `CREATE TABLE IF NOT EXISTS`; **does not** drop tables):
 
